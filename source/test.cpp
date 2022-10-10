@@ -1,15 +1,22 @@
 #include <stdio.h>
 
-void func() {}
-void func2() {}
-void func3() {}
-void func5() {}
+void func() 
+{
+
+}
+void func6()
+{
+
+}
+void func7()
+{
+
+}
 
 int main()
 {
+	func6();
 	func();
-	func2();
-	func3();
-	func5();
+	func7();
 	return 0;
 }
